@@ -1,0 +1,6 @@
+controle-cartoes/
+│
+├── web_cartoes.py        # O código principal (FastAPI)
+├── requirements.txt      # Dependências Python
+├── Dockerfile            # Configuração para deploy
+└── README.md             # Instruções rápidas
